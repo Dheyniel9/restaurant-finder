@@ -19,6 +19,9 @@ This is a serverless API built with **Next.js (TypeScript)** that lets users des
 
 ## 🛠️ Local Development
 
+# Challenges 
+The challenge for me is by getting the api key in foursquare since all of the documentation is not yet updated when getting the api key.
+
 ### 1. Clone the repo
 
 ```bash
@@ -35,3 +38,5 @@ Foursquare: https://foursquare.com/developers/apps
 
 
 http://localhost:3000/api/execute?message=Find%20a%20cheap%20pizza%20place%20in%20New%20York&code=pioneerdevai
+
+
